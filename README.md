@@ -1,7 +1,5 @@
-
-<h1 align="center">Kyara Store</h1>
 </br>
-</br></br>
+
 
 <h2 align="center">Projeto</h2>
 <p align="center">Um sistema de cadastro simples utilizando pricipalmente React, node e MySQL.</p>
