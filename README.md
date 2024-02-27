@@ -7,9 +7,6 @@
 
 </br></br></br>
 
-<p align="center">
-   <img  src="/frontend/src/assets/home.jpg">  
-</p>
 
 
 </br></br>
